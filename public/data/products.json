@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A101",
+    "description": "Screwdriver",
+    "category": "1",
+    "price": "9.75",
+    "pic": "https://images.homedepot-static.com/productImages/52ce8579-4c0f-443e-bd7d-4f626bb223d1/svn/hdx-specialty-screwdrivers-120sd12d-64_1000.jpg"
+  },
+  {
+    "id": "A102",
+    "description": "Electric screwdriver",
+    "category": "1",
+    "price": "49.50",
+    "pic": "https://images.homedepot-static.com/productImages/52ce8579-4c0f-443e-bd7d-4f626bb223d1/svn/hdx-specialty-screwdrivers-120sd12d-64_1000.jpg"
+  },
+  {
+    "id": "B101",
+    "description": "Basic on-off switch",
+    "category": "2",
+    "price": "4.99",
+    "pic": "https://images.homedepot-static.com/productImages/52ce8579-4c0f-443e-bd7d-4f626bb223d1/svn/hdx-specialty-screwdrivers-120sd12d-64_1000.jpg"
+  },
+  {
+    "id": "B102",
+    "description": "Press button",
+    "category": "2",
+    "price": "4.99",
+    "pic": "https://images.homedepot-static.com/productImages/52ce8579-4c0f-443e-bd7d-4f626bb223d1/svn/hdx-specialty-screwdrivers-120sd12d-64_1000.jpg"
+  },
+  {
+    "id": "B103",
+    "description": "Switch with motion detector",
+    "category": "2",
+    "price": "12.95",
+    "pic": "https://images.homedepot-static.com/productImages/52ce8579-4c0f-443e-bd7d-4f626bb223d1/svn/hdx-specialty-screwdrivers-120sd12d-64_1000.jpg"
+  }
+]
